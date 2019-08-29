@@ -1,1 +1,2 @@
-print(ÒHello world!Ó);
+print(ÒHello world! 2 ðàçàÓ);
+
