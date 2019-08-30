@@ -1,0 +1,2 @@
+print(ТHello world! 2 разаУ);
+
