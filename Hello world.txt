@@ -1,2 +1,2 @@
-print(ТHello world! 2 разаУ);
+print(ТHello world! 2 раза;У);
 
