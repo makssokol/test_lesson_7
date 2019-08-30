@@ -1,2 +1,4 @@
-print(ÒHello world! 2 ðàçà;Ó);
 
+print("Hello my dear friend";);
+print("Glad to see you";);
+print("Hello world! 2 Ñ€Ð°Ð·Ð°";);
